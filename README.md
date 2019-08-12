@@ -1,5 +1,5 @@
 # kindle-collection-generator
-Copy files to a Kindle and automatically create Collections
+Copy files to a Kindle and automatically create Collections that correspond to the filesystem structure. Turns your Kindle into a walking data storage brick!
 
 My old kindle reader can read files (PDF, text etc). Connect your Kindle your PC and just copy the files over in Windows Explorer.
 
